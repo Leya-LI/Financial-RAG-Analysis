@@ -1,5 +1,10 @@
 # Financial-RAG-Analysis
 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Leya-LI/LLM-API-Explorer/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/Leya-LI/LLM-API-Explorer.svg)](https://github.com/Leya-LI/LLM-API-Explorer/issues)
+[![GitHub stars](https://img.shields.io/github/stars/Leya-LI/LLM-API-Explorer.svg)](https://github.com/Leya-LI/LLM-API-Explorer/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Leya-LI/LLM-API-Explorer.svg)](https://github.com/Leya-LI/LLM-API-Explorer/network)
+
 ## Overview
 
 Financial-RAG-Analysis is a financial sector question-answering project that utilizes 10-K filings, Langchain, and Milvus to provide stakeholders with quick and accurate information retrieval and summarization from complex financial documents.

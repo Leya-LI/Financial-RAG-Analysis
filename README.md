@@ -55,4 +55,8 @@ We welcome contributions to the project. If you have any suggestions for improve
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
+## Acknowledgements
+
+I would like to express my gratitude to the Milvus team for their comprehensive documentation on integrating Milvus with LangChain for building Retrieval-Augmented Generation (RAG) systems. Their guide has been instrumental in our project's development.
+- Milvus Documentation: [Retrieval-Augmented Generation (RAG) with Milvus and LangChain](https://milvus.io/docs/integrate_with_langchain.md)
 ---

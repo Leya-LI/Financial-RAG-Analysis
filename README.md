@@ -40,7 +40,7 @@ Financial-RAG-Analysis is a financial question-answering project that utilizes 1
 4. Start the Milvus service and ensure it is running on `http://localhost:19530`.
 5. Run Jupyter Notebook:
    ```
-   jupyter notebook
+   jupyter notebook LangChain_RAG_Financial_Analysis.ipynb
    ```
    Open the `LangChain_RAG_Financial_Analysis.ipynb` file to explore the project.
 

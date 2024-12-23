@@ -22,6 +22,7 @@ Financial-RAG-Analysis is a financial question-answering project that utilizes 1
 - **Langchain**: For building and deploying natural language processing pipelines.
 - **Milvus**: Open-source vector database for storing and retrieving vector embeddings.
 - **OpenAI Embeddings**: For generating vector representations of text.
+- **Docker**: Utilized for deploying Milvus on a Windows system, ensuring a seamless and environment-independent setup.
 - **Python**: The primary programming language.
 
 ## Installation and Deployment

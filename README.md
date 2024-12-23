@@ -31,14 +31,9 @@ Financial-RAG-Analysis is a financial question-answering project that utilizes 1
    ```
    git clone https://github.com/Leya-LI/Financial-RAG-Analysis.git
    ```
-2. Install dependencies:
-   ```
-   cd Financial-RAG-Analysis
-   pip install -r requirements.txt
-   ```
-3. Install Milvus using Docker on Windows: For Windows users, Milvus can be installed and managed through Docker to ensure an environment-independent setup.
-4. Start the Milvus service and ensure it is running on `http://localhost:19530`.
-5. Run Jupyter Notebook:
+2. Install Milvus using Docker on Windows: For Windows users, Milvus can be installed and managed through Docker to ensure an environment-independent setup.
+3. Start the Milvus service and ensure it is running on `http://localhost:19530`.
+4. Run Jupyter Notebook:
    ```
    jupyter notebook LangChain_RAG_Financial_Analysis.ipynb
    ```

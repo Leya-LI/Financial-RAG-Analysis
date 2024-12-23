@@ -7,7 +7,7 @@
 
 ## Overview
 
-Financial-RAG-Analysis is a financial sector question-answering project that utilizes 10-K filings, Langchain, and Milvus to provide stakeholders with quick and accurate information retrieval and summarization from complex financial documents.
+Financial-RAG-Analysis is a financial question-answering project that utilizes 10-K filings, Langchain, and Milvus to provide stakeholders with quick and accurate information retrieval and summarization from complex financial documents.
 
 ## Features
 

@@ -36,7 +36,7 @@ Financial-RAG-Analysis is a financial question-answering project that utilizes 1
    cd Financial-RAG-Analysis
    pip install -r requirements.txt
    ```
-3. Down load Milvus in Docker
+3. Install Milvus using Docker on Windows: For Windows users, Milvus can be installed and managed through Docker to ensure an environment-independent setup.
 4. Start the Milvus service and ensure it is running on `http://localhost:19530`.
 5. Run Jupyter Notebook:
    ```
